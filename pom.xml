@@ -14,13 +14,8 @@
     <parent>
         <groupId>com.github.shoothzj</groupId>
         <artifactId>java-dependency</artifactId>
-        <version>3.1.16</version>
+        <version>3.1.26</version>
     </parent>
-
-    <properties>
-        <maven.compiler.source>11</maven.compiler.source>
-        <maven.compiler.target>11</maven.compiler.target>
-    </properties>
 
     <dependencies>
         <dependency>
@@ -31,7 +26,7 @@
         <dependency>
             <groupId>com.github.shoothzj</groupId>
             <artifactId>java-tool</artifactId>
-            <version>3.1.7</version>
+            <version>3.1.12</version>
         </dependency>
         <!-- test -->
         <dependency>
